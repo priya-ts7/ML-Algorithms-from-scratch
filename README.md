@@ -1,6 +1,6 @@
 # ML-Algorithms-from-scratch
 
-Implementation of fundamental Machine Learning algorithms in Python.
+Implementation and testing of fundamental Machine Learning algorithms in Python.
 
 ## Contents:
 
